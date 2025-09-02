@@ -18,4 +18,4 @@
 ### Compilation
 To compile the program, run the following command from the root directory of the repository:
 ```bash
-c++ -std=c++17 src/*.cpp -I include/ -o program
+c++ -std=c++17 src/*.cpp -I include/ -o math_program
